@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Resita</string>
+    <string name="start_button_text">START</string>
+    <string name="image_desc">receipt_image</string>
+    <string name="process_button_text">Process</string>
+    <string name="picture_dialog_title">Select option</string>
+    <string-array name="picture_options">
+        <item>Take picture</item>
+        <item>Open gallery</item>
+    </string-array>
+</resources>
