@@ -2,18 +2,12 @@ package helpers;
 
 import android.graphics.Bitmap;
 import android.graphics.drawable.BitmapDrawable;
-import android.net.Uri;
-import android.util.Log;
-import android.view.View;
 import android.widget.ImageView;
-import android.widget.ProgressBar;
 
 import com.google.firebase.storage.FirebaseStorage;
 import com.google.firebase.storage.StorageReference;
-import com.google.firebase.storage.UploadTask;
 
 import java.io.ByteArrayOutputStream;
-import java.util.Objects;
 
 public class ImageStorage extends Storage {
     private final static String TAG = "ImageStorage";
