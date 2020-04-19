@@ -165,3 +165,9 @@ fabric.properties
 .idea/sonarlint
 
 # End of https://www.gitignore.io/api/android,intellij
+
+processing/resita-env/Include/*
+processing/resita-env/Lib/*
+processing/resita-env/Scripts/*
+processing/resita-env/tcl/*
+processing/resita-env/__pycache__/*
